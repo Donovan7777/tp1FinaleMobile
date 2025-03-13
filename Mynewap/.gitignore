@@ -1,0 +1,19 @@
+# Ignore dependencies
+node_modules/
+package-lock.json
+
+# Ignore Expo-generated files
+.expo/
+dist/
+web-build/
+
+# Ignore system files
+.DS_Store
+*.pem
+
+# Ignore local environment files
+.env*.local
+
+# Ignore TypeScript build info
+*.tsbuildinfo
+
