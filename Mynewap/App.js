@@ -2,7 +2,7 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import { Image } from 'react-native';
-
+// Donovan Morin 2235853
 // Importation des écrans du projet
 import HomeScreen from './screens/HomeScreen';
 import MapScreen from './screens/MapScreen';
